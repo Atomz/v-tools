@@ -176,7 +176,7 @@ Conservative_modifications(){
                 fi
         fi
 }
-odify_ssh(){
+modify_ssh(){
         Read_config
         Set_port
         choose_the_way
